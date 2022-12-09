@@ -8,6 +8,7 @@ public class Demo2SEvent4Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Demo2SEvent4Application.class, args);
+		System.out.println("its Second branch");
 	}
 
 }
