@@ -18,7 +18,7 @@ public class MergeController {
 	@GetMapping("/getInfo")
 	public String getInformation()
 	{
-		return "Test the RestController";
+		return "Test the  added the Docker file";
 	}
 
 }
